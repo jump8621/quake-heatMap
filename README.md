@@ -2,4 +2,4 @@
 
 https://jump8621.github.io/quake-heatMap/
 
-![Heat Map Image](HeatMap.png)
+![Heat Map Image](static/HeatMap.png)
